@@ -11,48 +11,55 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Khushal+Narsaria;Python+Developer;Full+Stack+Learner;Building+Projects+🚀" />
 </p>
 
----
-
-
-## 🧑‍💻 About Me
-
-💻 Passionate developer who loves building useful applications
-🚀 Currently working on **Python & Full Stack Projects**
-🌱 Learning **AI, ML & Web Development**
-🤝 Open for collaboration
-
----
-
-## ⚡ Tech Stack
+<!-- HERO SECTION -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-00FF00?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-00FF00?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-00FF00?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-00FF00?style=for-the-badge&logo=flask&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00FF00?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Khushal%20Narsaria&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- TYPING EFFECT -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Enthusiast;AI+%26+ML+Learner;Building+Cool+Projects+🚀" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 About Me
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+* 💻 Passionate about building real-world apps
+* 🚀 Currently working on Python & Full Stack
+* 🌱 Learning AI / ML
+* 🤝 Open to collaboration
+
+---
+
+# 🚀 Tech Stack (Card Style)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khushal-Narsaria&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal-Narsaria&layout=compact&theme=chartreuse-dark" />
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css,react,nextjs,nodejs,express,flask,django,mysql,postgres,mongodb,supabase,docker,git,github,opencv,pytorch" />
+
 </p>
 
 ---
 
-## 🔥 Streak Stats
+# 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Khushal-Narsaria&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushal-Narsaria&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal-Narsaria&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Khushal-Narsaria&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Khushal-Narsaria/Khushal-Narsaria/output/github-contribution-grid-snake.svg" />
@@ -60,25 +67,49 @@
 
 ---
 
-## 🟩 Green Contribution Bar
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushal-Narsaria&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushal-Narsaria&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-## 📫 Connect with Me
+# 🚀 Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/Khushal-Narsaria/YOUR-PROJECT-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushal-Narsaria&repo=YOUR-PROJECT-1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Khushal-Narsaria/YOUR-PROJECT-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khushal-Narsaria&repo=YOUR-PROJECT-2&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/>
+  <a href="mailto:YOURMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
 
-⭐ *"Code. Learn. Build. Repeat."*
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Khushal-Narsaria&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐ *"Code. Build. Repeat. Grow."*
