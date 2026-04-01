@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Khushal Narsaria
 
-<!--
-**Khushal-Narsaria/Khushal-Narsaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | Python Enthusiast
+🚀 Currently building projects to help others
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 🔭 I’m currently working on **Python projects**
+* 🌱 Learning **Full Stack Development & AI**
+* 💡 Interested in building **real-world useful apps**
+* 🤝 Open to collaboration
+
+---
+
+## ⚡ Tech Stack
+
+* 💻 Languages: Python, JavaScript, C++
+* 🌐 Web: HTML, CSS, React
+* 🗄️ Backend: Flask, Node.js
+* 🛢️ Databases: MySQL, PostgreSQL
+* 🔧 Tools: Git, GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Khushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushal-Narsaria\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushal-Narsaria\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Khushal-Narsaria\&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: (add your link here)
+* 📧 Email: (your email)
+
+---
+
+⭐️ *“Code. Learn. Build. Repeat.”*
