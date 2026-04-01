@@ -1,9 +1,3 @@
-# 👋 Hi, I'm Khushal Narsaria
-
-💻 Aspiring Software Developer | Python Enthusiast
-🚀 Currently building projects to help others
-📍 India
-
 ---
 <!-- HEADER GIF -->
 
