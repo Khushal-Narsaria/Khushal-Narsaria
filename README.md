@@ -66,6 +66,10 @@ I build full-stack products and reliable back-end systems: REST APIs with idempo
 
 | Project | What it is | Stack | Links |
 | --- | --- | --- | --- |
+| **[RAG Document QA](https://github.com/Khushal-Narsaria/RAG-Document-QA)** | Retrieval-augmented QA: chunking, FAISS vector store, hybrid retrieval measured on 10,570 questions; open-source LLMs with cited JSON answers, prompt-injection tests and an agent | Python · FAISS · Llama · Qwen · Gemma | [▶ Live demo](https://khushal-narsaria.github.io/RAG-Document-QA/) |
+| **[Mini GPT From Scratch](https://github.com/Khushal-Narsaria/Mini-GPT-From-Scratch)** | A 940,800-parameter transformer with hand-written attention, a BPE tokenizer and top-k / top-p sampling | Python · PyTorch | [▶ Live demo](https://khushal-narsaria.github.io/Mini-GPT-From-Scratch/) |
+| **[Retail Intelligence Platform](https://github.com/Khushal-Narsaria/Retail-Intelligence-Platform)** | SQL warehouse and PySpark / Delta Lake lakehouse on 1M real retail transactions, with a repeat-purchase model, demand forecast and recommender | Python · SQL · PySpark · Delta Lake · FastAPI | [▶ Live demo](https://khushal-narsaria.github.io/Retail-Intelligence-Platform/) |
+| **[Procurement Analytics & Supplier Scorecard](https://github.com/Khushal-Narsaria/Procurement-Analytics-Supplier-Scorecard)** | Spend analysis, supplier scorecard and reorder policy in SQL and Python | Python · SQL | [▶ Live demo](https://khushal-narsaria.github.io/Procurement-Analytics-Supplier-Scorecard/) |
 | **[DSP Toolkit & Spectrum Analyzer](https://github.com/Khushal-Narsaria/DSP-Toolkit-Spectrum-Analyzer)** | DSP library written from scratch: FFT, FIR design, multirate, AM/FM/ASK/BPSK/QAM with BER, and FFT and swept-tuned analyzers. Unit tests run in CI | C++17 · MATLAB · JS | [▶ Live demo](https://khushal-narsaria.github.io/DSP-Toolkit-Spectrum-Analyzer/) |
 | **[GoCart](https://github.com/Khushal-Narsaria/GoCart-Fullstack-E-Commerce-Website)** | Multi-vendor marketplace storefront with seller and admin dashboards | Next.js 15 · Redux Toolkit · Tailwind | [▶ Live demo](https://khushal-narsaria.github.io/GoCart-Fullstack-E-Commerce-Website/) |
 | **[Inventory & Order Management](https://github.com/Khushal-Narsaria/Inventory-Order-Management-System)** | Warehouse management system: sales, purchasing, stock movements and reports on a Clean Architecture + CQRS API | ASP.NET Core 9 · EF Core · Vue.js | [Project page](https://khushal-narsaria.github.io/Inventory-Order-Management-System/) |
@@ -78,7 +82,7 @@ I build full-stack products and reliable back-end systems: REST APIs with idempo
 ## 📜 Certifications
 
 <details>
-<summary><b>AWS · Oracle · MongoDB · Meta · Microsoft · Google · OCI</b></summary>
+<summary><b>AWS · Oracle · Databricks · MongoDB · Meta · Microsoft · Google · OCI</b></summary>
 
 - AWS Certified Developer – Associate
 - Meta Back-End Developer Professional Certificate
@@ -87,6 +91,8 @@ I build full-stack products and reliable back-end systems: REST APIs with idempo
 - Microsoft Azure Fundamentals AZ-900 · Azure AI Fundamentals AI-900
 - Microsoft Power BI Data Analyst PL-300 · Excel
 - Google Data Analytics · OCI Generative AI
+- AWS Certified Cloud Practitioner
+- Databricks Fundamentals · Databricks Generative AI Fundamentals
 
 </details>
 
